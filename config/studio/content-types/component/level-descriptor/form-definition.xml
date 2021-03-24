@@ -139,7 +139,7 @@
 						</property>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/site/components/common</value>
 								<type>string</type>
 						</property>
 						<property>
