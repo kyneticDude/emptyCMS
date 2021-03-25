@@ -95,9 +95,9 @@
 			<fields>
 				<field>
 					<type>input</type>
-					<id>partnerwithTitle_s</id>
+					<id>footercolumnoneTitle_s</id>
 					<iceId></iceId>
-					<title>Partner with Title</title>
+					<title>Footer column one Title</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -262,9 +262,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>newsroomTitle_s</id>
+					<id>footercolumntwoTitle_s</id>
 					<iceId></iceId>
-					<title>Newsroom Title</title>
+					<title>Footer column two Title</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -426,6 +426,102 @@
 					</constraints>
 				</field>
 					</fields>
+				</field>
+				<field>
+					<type>input</type>
+					<id>footercolumnthreeTitle_s</id>
+					<iceId></iceId>
+					<title>Footer column three Title</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>escapeContent</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
+				<field>
+					<type>input</type>
+					<id>footercolumnfourTitle_s</id>
+					<iceId></iceId>
+					<title>Footer column four Title</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>50</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>escapeContent</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
 				</field>
 			</fields>
 		</section>
