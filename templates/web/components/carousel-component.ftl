@@ -1,6 +1,4 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-	...
-	<@studio.toolSupport />
 	
 	<#if contentModel.slide_o?? && contentModel.slide_o.item??>
 	    <#list contentModel.slide_o.item as slideItem>
@@ -19,3 +17,5 @@
             </div>
 	    </#list>
 	</#if>
+	
+<@studio.toolSupport />
