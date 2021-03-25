@@ -167,54 +167,6 @@
 						</constraint>
 					</constraints>
 				</field>
-				<field>
-					<type>node-selector</type>
-					<id>sections_o</id>
-					<iceId></iceId>
-					<title>Sections</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>minSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxSize</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>itemManager</name>
-							<value>sections</value>
-							<type>datasource:item</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>disableFlattening</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>useSingleValueFilename</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>allowDuplicates</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
 			</fields>
 		</section>
 		<section>
@@ -333,204 +285,48 @@
 			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
-					<type>image-picker</type>
-					<id>heroImage_s</id>
-					<iceId>hero-image</iceId>
-					<title>Hero Image</title>
+					<type>node-selector</type>
+					<id>sections_o</id>
+					<iceId></iceId>
+					<title>Sections</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>width</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
-							<type>range</type>
-						</property>
-						<property>
-							<name>thumbnailWidth</name>
+							<name>minSize</name>
 							<value></value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>thumbnailHeight</name>
+							<name>maxSize</name>
 							<value></value>
 							<type>int</type>
 						</property>
 						<property>
-							<name>imageManager</name>
-							<value>existingMediaDS,uploadMediaDS</value>
-							<type>datasource:image</type>
+							<name>itemManager</name>
+							<value>sections</value>
+							<type>datasource:item</type>
 						</property>
 						<property>
 							<name>readonly</name>
 							<value></value>
 							<type>boolean</type>
 						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[true]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>rte-tinymce5</type>
-					<id>mainRte_html</id>
-					<iceId>mainRte</iceId>
-					<title>Main Rte</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
 						<property>
-							<name>width</name>
+							<name>disableFlattening</name>
 							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>autoGrow</name>
-							<value>false</value>
 							<type>boolean</type>
 						</property>
 						<property>
-							<name>enableSpellCheck</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
+							<name>useSingleValueFilename</name>
 							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>videoManager</name>
-							<value></value>
-							<type>datasource:video</type>
-						</property>
-						<property>
-							<name>fileManager</name>
-							<value></value>
-							<type>datasource:item</type>
+							<type>boolean</type>
 						</property>
 					</properties>
 					<constraints>
 						<constraint>
-							<name>required</name>
-							<value><![CDATA[]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
-					<type>rte-tinymce5</type>
-					<id>secondRte_html</id>
-					<iceId>secondRte</iceId>
-					<title>Second Rte</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>width</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>height</name>
-							<value></value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>autoGrow</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>enableSpellCheck</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceRootBlockPTag</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forcePTags</name>
-							<value>true</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>forceBRTags</name>
-							<value>false</value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>supportedChannels</name>
-							<value></value>
-							<type>supportedChannels</type>
-						</property>
-						<property>
-							<name>rteConfiguration</name>
-							<value>generic</value>
-							<type>string</type>
-						</property>
-						<property>
-							<name>imageManager</name>
-							<value></value>
-							<type>datasource:image</type>
-						</property>
-						<property>
-							<name>videoManager</name>
-							<value></value>
-							<type>datasource:video</type>
-						</property>
-						<property>
-							<name>fileManager</name>
-							<value></value>
-							<type>datasource:item</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
+							<name>allowDuplicates</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
