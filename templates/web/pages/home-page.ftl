@@ -31,7 +31,7 @@
         </div>
     </section>
     
-    <div id="information" class="spacer reserve-info">
+    <!--div id="information" class="spacer reserve-info">
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
@@ -42,6 +42,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div-->
+    
+    <#list (contentModel.sections_o.item)![] as section>
+        <@renderComponent parent=contentModel component=section />
+    </#list>
     
 </@layout.default>
