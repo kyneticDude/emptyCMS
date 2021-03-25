@@ -6,7 +6,7 @@
             <div class="grid flex-grid grid-inner__4c">
             
                 <div class="col-3 grid__cell">
-                    <h2 class="text--md footer__title">${model.partnerwithTitle_s!""}</h2>
+                    <h2 class="text--md footer__title">${model.footercolumnoneTitle_s!""}</h2>
                     <#if contentModel.partnerLinks_o?? && contentModel.partnerLinks_o.item??>
                         <ul class="list-unstyled">
                             <#list model.partnerLinks_o.item as item>
@@ -17,7 +17,7 @@
                 </div>
                 
                 <div class="col-3 grid__cell">
-                    <h2 class="text--md footer__title">${model.newsroomTitle_s!""}</h2>
+                    <h2 class="text--md footer__title">${model.footercolumntwoTitle_s!""}</h2>
                     <#if contentModel.newsLinks_o?? && contentModel.newsLinks_o.item??>
                         <ul class="list-unstyled">
                             <#list model.newsLinks_o.item as item>
@@ -28,14 +28,14 @@
                 </div>
                 
                 <div class="col-3 grid__cell">
-                    <h2 class="text--md footer__title">Information</h2>
+                    <h2 class="text--md footer__title">${model.footercolumnthreeTitle_s!""}</h2>
                     <ul>
                         <li><a href="#">Site map</a></li>
                     </ul>
                 </div>
                 
                 <div class="col-3 grid__cell">
-                    <h2 class="text--md footer__title">Contact us</h2>
+                    <h2 class="text--md footer__title">${model.footercolumnfourTitle_s!""}</h2>
                     <ul>
                         <li><a href="mailto:info@velocityclub.co.za">info@velocityclub.co.za</a></li>
                         <li class="social--media-item__whatsapp" style="display: flex; flex-flow: row;">
