@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-header</content-type>
+	<display-template>/templates/web/components/header-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2f02</objectGroupId>
+	<objectId>2f02d541-208a-9286-2ec6-529b1e6af308</objectId>
+	<internal-name>Default Header</internal-name>
+	<headerImageUrl_s>/</headerImageUrl_s>
+	<headerTitle_s>Velocity Club</headerTitle_s>
+	<file-name>2f02d541-208a-9286-2ec6-529b1e6af308.xml</file-name>
+	<headerImage_s>/static-assets/images/velocity-logo.png</headerImage_s>
+	<createdDate>2021-03-25T06:46:46.978Z</createdDate>
+	<createdDate_dt>2021-03-25T06:46:46.978Z</createdDate_dt>
+	<lastModifiedDate>2021-03-25T06:46:46.978Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T06:46:46.978Z</lastModifiedDate_dt>
+</component>
