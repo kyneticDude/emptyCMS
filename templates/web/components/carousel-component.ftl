@@ -6,7 +6,7 @@
 	    <#list contentModel.slide_o.item as slideItem>
 	        <!-- Slide 1 -->
             <div class="swiper-slide">
-                <section class="grid grid-inner__full no-margin-top no-margin-bottom" id="finPlanning" title="Brown leather cushion on a brown leather couch.">
+                <section class="grid grid-inner__full no-margin-top no-margin-bottom" id="${slideItem.slideId_s!""}" title="${slideItem.slideSeo}">
                     <div class="grid__cell grid-inner__masthead">
                         <div class="grid-inner__masthead-content">
                             <h2 class="text--sm headliner">financial planning</h2>
