@@ -19,6 +19,18 @@
         </div>
     </section>
     
+    <section class="container section" id="billboard_cta" <@studio.iceAttr iceGroup="callOutList"/>>
+        <div class="swiper-container" <@studio.componentContainerAttr target="callOutList" objectId=contentModel.objectId/>>
+            <#if contentModel.calloutList_o?? && contentModel.calloutList_o.item??>
+                <#list contentModel.calloutList_o.item as list>
+                    <div class="wide--layout">
+                        <@renderComponent component=list />
+                    </div>
+                </#list>
+            </#if>
+        </div>
+    </section>
+    
     <div id="information" class="spacer reserve-info">
         <div class="container">
             <div class="row">
