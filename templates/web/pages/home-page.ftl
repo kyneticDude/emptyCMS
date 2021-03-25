@@ -4,7 +4,7 @@
     
     <div id="information" class="spacer reserve-info">
         <div class="container">
-            <img src="${contentModel.heroImage_o!""}">
+            <!--<img src="${contentModel.heroImage_o!""}">-->
             <div class="row">
                 <div class="col-md-8">
                     ${contentModel.mainRte_html!""}
