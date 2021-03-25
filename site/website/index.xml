@@ -13,13 +13,9 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-03-25T12:38:04.661Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-25T12:38:04.661Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-03-25T13:40:45.532Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T13:40:45.532Z</lastModifiedDate_dt>
 	<navLabel>Home</navLabel>
-	<heroImage_s>/static-assets/images/1-Carouselbanner-1792x580.jpg</heroImage_s>
-	<mainRte_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in iaculis ante, vitae consequat velit. Etiam aliquet sed mi in dapibus. Curabitur id finibus purus. Nullam molestie fringilla urna, quis maximus nunc bibendum vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eget ligula vitae magna placerat scelerisque. Phasellus interdum lectus lacinia lacus varius, nec interdum turpis consectetur. Praesent porttitor arcu in urna tempus vulputate. Sed commodo eu enim quis dictum. Duis tempor laoreet leo, eget vehicula eros pretium eu. Fusce nec velit at mi commodo pellentesque.&lt;/p&gt;
-&lt;p&gt;Sed lectus libero, auctor eu elit non, consequat rhoncus ante. Duis gravida tempor nisi eu semper. Suspendisse suscipit eget sapien quis blandit. Curabitur posuere eget turpis a ornare. Mauris feugiat est dui. Nulla ac maximus sem, et semper lectus. Vestibulum aliquam interdum mi, ut sagittis ligula facilisis sit amet. Proin dapibus scelerisque sapien, sed dignissim ex auctor vitae. Fusce eget malesuada metus, id tincidunt risus.&lt;/p&gt;</mainRte_html>
-	<secondRte_html>&lt;p&gt;Phasellus non gravida ligula, at pellentesque neque. Nulla ac varius nisi. Quisque id diam ullamcorper, mollis lectus at, consectetur ex. Suspendisse eu massa dictum ante facilisis interdum. Aliquam iaculis felis sit amet elit vestibulum, in venenatis nunc dapibus. Ut sem lorem, accumsan non nisl at, ultrices iaculis ante. Vestibulum ac tempor augue. Aliquam pulvinar sem odio, sed auctor sem finibus quis. Fusce non diam fermentum, viverra purus at, fringilla nunc. Maecenas elit diam, dignissim id nisi pulvinar, blandit gravida neque. Nunc ligula elit, sagittis at elit in, auctor lobortis nisi. Curabitur bibendum auctor eleifend. Nam imperdiet urna eu dui pretium cursus. Duis eget elit nec mi lobortis finibus.&lt;/p&gt;</secondRte_html>
 	<carousels_o item-list="true">	<item datasource="carouselDS">	<key>/site/components/carousel/39ec6a92-0fff-8513-1a6a-aaf30ad568b1.xml</key>
 	<value>Carousel</value>
 	<include>/site/components/carousel/39ec6a92-0fff-8513-1a6a-aaf30ad568b1.xml</include>
@@ -30,4 +26,28 @@
 	<include>/site/components/callout/e0b717c4-b213-3472-918e-e9f6b0316f3f.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></calloutList_o>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>ce04b3c7-0c9a-d6d2-8e18-5037b9c5b6c0</key>
+	<value>Full Width Card</value>
+<component id="ce04b3c7-0c9a-d6d2-8e18-5037b9c5b6c0">
+	<content-type>/component/component-cardfullwidth</content-type>
+	<display-template>/templates/web/components/cardfull-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ce04</objectGroupId>
+	<objectId>ce04b3c7-0c9a-d6d2-8e18-5037b9c5b6c0</objectId>
+	<internal-name>Full Width Card</internal-name>
+	<cardFullTitle_s>We'll guide you to a worry-free future</cardFullTitle_s>
+	<imageAlt_s>Hands of a young man, wearing a smart watch, with a pen in his hand signing his Money Guide.</imageAlt_s>
+	<file-name>ce04b3c7-0c9a-d6d2-8e18-5037b9c5b6c0.xml</file-name>
+	<cardFullImage_s>/static-assets/images/free future-1-2_section-896x580.jpg</cardFullImage_s>
+	<cardFullContent_html>&lt;p&gt;Worried about how you're going to save up for that house, start that MBA or support your family when you can barely get by every month?&lt;/p&gt;
+&lt;p&gt;When your finances are in order, it&amp;rsquo;s like a huge weight is lifted off your shoulders and you can see the opportunities in life again. Everything feels like it&amp;rsquo;s under control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Today&amp;rsquo;s your opportunity to take control of your finances and start building the life you want. At Velocity Club, we know about money and we can show you how to make the right decisions to remove the worry and start living the life you want.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are money experts who want you to succeed and offer affordable financial advice that removes the confusing jargon and helps you get on the right track to achieving your money goals.&lt;/p&gt;</cardFullContent_html>
+	<createdDate>2021-03-25T13:41:09.700Z</createdDate>
+	<createdDate_dt>2021-03-25T13:41:09.700Z</createdDate_dt>
+	<lastModifiedDate>2021-03-25T13:41:09.700Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T13:41:09.700Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
 </page>
