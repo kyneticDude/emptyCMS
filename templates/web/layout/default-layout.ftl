@@ -7,30 +7,21 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <title>Holiday Crown | Best hotel in Dubai</title>
+        <title>Financial planning and advice | Momentum Velocity Club</title>
 
-        <!-- Google fonts -->
-        <link href='http://fonts.googleapis.com/css?family=Raleway:300,500,800|Old+Standard+TT' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Raleway:300,500,800' rel='stylesheet' type='text/css'>
-
-        <!-- font awesome -->
-        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-        <!-- bootstrap -->
-        <link rel="stylesheet" href="/static-assets/js/bootstrap/css/bootstrap.min.css" />
-
-        <!-- uniform -->
-        <link type="text/css" rel="/stylesheet" href="static-assets/js/uniform/css/uniform.default.min.css" />
-
-        <!-- animate.css -->
-        <link rel="stylesheet" href="/static-assets/js/wow/animate.css" />
-
-        <!-- gallery -->
-        <link rel="stylesheet" href="/static-assets/js/gallery/blueimp-gallery.min.css">
-
-        <!-- favicon -->
-        <link rel="shortcut icon" href="/static-assets/images/favicon.png" type="image/x-icon">
-        <link rel="icon" href="/static-assets/images/favicon.png" type="image/x-icon">
+        <meta property="og:title" content="Velocity Club" />
+        <meta property="og:url" content="https://www.velocityclub.co.za/" />
+        <meta property="og:image" content="https://www.velocityclub.co.za/images/VelocityClub-logo.svg" />
+        <meta property="og:description" content="Our team of financial advisers help you make better financial decisions. We ask, listen and solve by providing you with a Money Guide to help you on your journey to success." />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <link rel="canonical" href="https://www.velocityclub.co.za/">
+        <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
+    
+        <link rel="stylesheet" href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.css">
+        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 
         <link rel="stylesheet" href="/static-assets/css/style.css">
 
@@ -63,44 +54,15 @@
         </footer>
 
 
-        <a href="#home" class="toTop scroll"><i class="fa fa-angle-up"></i></a>
-
-        <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body_html -->
-        <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
-            <!-- The container for the modal slides -->
-            <div class="slides"></div>
-            <!-- Controls for the borderless lightbox -->
-            <h3 class="title">title</h3>
-            <a class="prev">‹</a>
-            <a class="next">›</a>
-            <a class="close">×</a>
-            <!-- The modal dialog, which will be used to wrap the lightbox content -->
-        </div>
-
-        <script src="/static-assets/js/jquery.js"></script>
-
-        <!-- wow script -->
-        <script src="/static-assets/js/wow/wow.min.js"></script>
-
-        <!-- uniform -->
-        <script src="/static-assets/js/uniform/js/jquery.uniform.js"></script>
-
-
-        <!-- boostrap -->
-        <script src="/static-assets/js/bootstrap/js/bootstrap.js" type="text/javascript" ></script>
-
-        <!-- jquery mobile -->
-        <script src="/static-assets/js/mobile/touchSwipe.min.js"></script>
-
-        <!-- jquery mobile -->
-        <script src="/static-assets/js/respond/respond.js"></script>
-
-        <!-- gallery -->
-        <script src="/static-assets/js/gallery/jquery.blueimp-gallery.min.js"></script>
-
-        <!-- custom script -->
-        <script src="/static-assets/js/script.js"></script>
-
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <script>window.jQuery || document.write('<script src="/static-assets/js/vendor/jquery.min.js"><\/script>')</script>
+        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+        <script src="/static-assets/js/sliders.js"></script>
+        <script src="/static-assets/js/inline-forms.js"></script>
+        <script src="/static-assets/js/modal-forms.js"></script>
+        <script src="/static-assets/js/app.js"></script>
+    
 		<@studio.toolSupport/>	
     </body>
     </html>
