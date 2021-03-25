@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-carousel</content-type>
+	<display-template>/templates/web/components/carousel-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>39ec</objectGroupId>
+	<objectId>39ec6a92-0fff-8513-1a6a-aaf30ad568b1</objectId>
+	<slide_o item-list="true">	<item>	<slideCategory_s>financial planning</slideCategory_s>
+	<slideTitle_s>Guiding you to a worry-free future.</slideTitle_s>
+	<slideUrl_s>#</slideUrl_s>
+	<slideId_s>finPlanning</slideId_s>
+	<slideAltText_s>Brown leather cushion on a brown leather couch.</slideAltText_s>
+	<slideBackground_s>/static-assets/images/2-Carouselbanner-1792x580.jpg</slideBackground_s>
+	<slideContent_html>&lt;p&gt;&lt;strong&gt;Make smart money decisions&lt;/strong&gt; with a Velocity Club financial expert to guide you.&lt;/p&gt;</slideContent_html>
+	</item>	<item>	<slideCategory_s>our solutions</slideCategory_s>
+	<slideTitle_s>Dreaming of buying your first home or starting a f</slideTitle_s>
+	<slideUrl_s>#</slideUrl_s>
+	<slideContent_html>&lt;p&gt;Whatever your money goal, we&amp;rsquo;ll help you get there.&lt;/p&gt;</slideContent_html>
+	<slideBackground_s>/static-assets/images/1-Carouselbanner-1792x580.jpg</slideBackground_s>
+	<slideId_s>ourSolutions</slideId_s>
+	<slideAltText_s>Young man sitting on the floor working on his lapt</slideAltText_s>
+	</item></slide_o>
+	<file-name>39ec6a92-0fff-8513-1a6a-aaf30ad568b1.xml</file-name>
+	<internal-name>Carousel</internal-name>
+	<createdDate>2021-03-25T11:20:29.449Z</createdDate>
+	<createdDate_dt>2021-03-25T11:20:29.449Z</createdDate_dt>
+	<lastModifiedDate>2021-03-25T11:20:29.449Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T11:20:29.449Z</lastModifiedDate_dt>
+</component>
