@@ -10,8 +10,8 @@
 	<internal-name>Default Footer</internal-name>
 	<createdDate>2021-03-25T07:51:31.860Z</createdDate>
 	<createdDate_dt>2021-03-25T07:51:31.860Z</createdDate_dt>
-	<lastModifiedDate>2021-03-25T09:51:33.060Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-25T09:51:33.060Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-03-25T10:02:02.014Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T10:02:02.014Z</lastModifiedDate_dt>
 	<socialSitesLinks_o item-list="true">	<item>	<url_s>https://www.facebook.com/</url_s>
 	<socialSite_s>facebook</socialSite_s>
 	</item>	<item>	<socialSite_s>instagram</socialSite_s>
@@ -39,4 +39,5 @@
 	</item>	<item>	<label_s>Expert opinions</label_s>
 	<url_s>/expert-opinions</url_s>
 	</item></newsLinks_o>
+	<copyrightInfo_html>&lt;p&gt;Velocity Club is offered by Momentum Metropolitan Life Limited, a registered financial services provider &amp;lt;br&amp;gt;(Reg no: 1904/002186/06, FSP License no: 6406). &amp;copy; 2020 Velocity Club&lt;/p&gt;</copyrightInfo_html>
 </component>
