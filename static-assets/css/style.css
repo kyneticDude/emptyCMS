@@ -2516,7 +2516,7 @@ footer {
   .subscription-forms #list-col-1b-tall:before {
     top: -6%;
     left: 79%;
-    background: url("../images/black-spot.svg") no-repeat;
+    background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
     z-index: -1;
     transform: scale(0.6); } }
 
@@ -2524,7 +2524,7 @@ footer {
   .subscription-forms #list-col-1b-tall:after {
     top: -12%;
     left: 66%;
-    background: url("../images/red_spot.svg") no-repeat;
+    background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
     z-index: -1;
     transform: scale(0.2); } }
 
@@ -2928,7 +2928,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 31%;
@@ -2938,7 +2938,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 40%;
@@ -2952,7 +2952,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1a-tall:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 73%;
@@ -2963,7 +2963,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1a-tall:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 82%;
@@ -2977,7 +2977,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1b-tall:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -11%;
@@ -2988,7 +2988,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1b-tall:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -22%;
@@ -3002,7 +3002,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1c-tall:before {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -10%;
@@ -3013,7 +3013,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1c-tall:after {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -18%;
@@ -3027,7 +3027,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1d-tall:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -6%;
@@ -3038,7 +3038,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1d-tall:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: 11%;
@@ -3052,7 +3052,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1e-tall:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -6%;
@@ -3063,7 +3063,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1e-tall:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -10%;
@@ -3077,7 +3077,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-2:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -13%;
@@ -3088,7 +3088,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-2:after {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -20%;
@@ -3102,7 +3102,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-3:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 13%;
@@ -3115,7 +3115,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-4:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 13%;
@@ -3126,7 +3126,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-4:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 20%;
@@ -3140,7 +3140,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-5:before {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 13%;
@@ -3151,7 +3151,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-5:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 70%;
@@ -3165,7 +3165,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-6:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 13%;
@@ -3176,7 +3176,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-6:after {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 18%;
@@ -3190,7 +3190,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-6a:before {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: -22%;
@@ -3204,7 +3204,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1.mp:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 75%;
@@ -3215,7 +3215,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-1.mp:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 87%;
@@ -3229,7 +3229,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-2.mp:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 65%;
@@ -3240,7 +3240,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-2.mp:after {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 71%;
@@ -3254,7 +3254,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-wide-l:before {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 56%;
@@ -3265,7 +3265,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-wide-l:after {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       top: 64%;
@@ -3279,7 +3279,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-wide-r:before {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: 6%;
@@ -3290,7 +3290,7 @@ select.form-control:not([size]):not([multiple]) {
     #list-col-wide-r:after {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -37%;
@@ -3304,7 +3304,7 @@ select.form-control:not([size]):not([multiple]) {
     .lc-r:before {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: 6%;
@@ -3315,7 +3315,7 @@ select.form-control:not([size]):not([multiple]) {
     .lc-r:after {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -37%;
@@ -3329,7 +3329,7 @@ select.form-control:not([size]):not([multiple]) {
     #csSignUp:before {
       content: '';
       position: absolute;
-      background: url("../images/black-spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/black-spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: 6%;
@@ -3340,7 +3340,7 @@ select.form-control:not([size]):not([multiple]) {
     #csSignUp:after {
       content: '';
       position: absolute;
-      background: url("../images/red_spot.svg") no-repeat;
+      background: url("https://www.velocityclub.co.za/images/red_spot.svg") no-repeat;
       width: 72px;
       height: 73px;
       bottom: -26%;
