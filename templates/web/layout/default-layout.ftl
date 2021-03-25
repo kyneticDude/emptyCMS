@@ -29,31 +29,45 @@
 
     <body id="home">
 
-
-        <!-- top
-          <form class="navbar-form navbar-left newsletter" role="search">
-                <div class="form-group">
-                  <input type="text" class="form-control" placeholder="Enter Your Email Id Here">
-                </div>
-                <button type="submit" class="btn btn-inverse">Subscribe</button>
-            </form>
-         top -->
-
-        <header id="header">
-            <@renderHeader/>
-        </header>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKPR4L4"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    
+    <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
 
 
-        <main class="mainContainer">
-            <#nested/>
-        </main>
-
-
-        <footer id="footer">
-                <@renderFooter/>
-        </footer>
-
-
+        <section class="wrapper">
+        
+            <!-- top
+              <form class="navbar-form navbar-left newsletter" role="search">
+                    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="Enter Your Email Id Here">
+                    </div>
+                    <button type="submit" class="btn btn-inverse">Subscribe</button>
+                </form>
+             top -->
+    
+            <header id="header">
+                <@renderHeader/>
+            </header>
+    
+    
+            <main class="mainContainer">
+                <#nested/>
+            </main>
+    
+    
+            <footer id="footer">
+                    <@renderFooter/>
+            </footer>
+    
+        </section>
+    
+    
         <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
         <script>window.jQuery || document.write('<script src="/static-assets/js/vendor/jquery.min.js"><\/script>')</script>
         <script src="/static-assets/js/vendor/swiper-bundle.min.js"></script>
