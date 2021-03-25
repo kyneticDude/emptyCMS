@@ -15,6 +15,9 @@
             <nav class="vc_navigation">
                 <ul class="vc_global_nav">
                     <@nav.renderNavigation "/site/website" 1 true/>
+                    <li>
+                        <button class="btn btn--primary get__started get_started_home_navbar_button" role="button">Schedule a session</button>
+                    </li>
                 </ul>
             </nav>
         </div>
