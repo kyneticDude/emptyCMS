@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/componentcalloutlist</content-type>
+	<display-template>/templates/web/components/callout-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e0b7</objectGroupId>
+	<objectId>e0b717c4-b213-3472-918e-e9f6b0316f3f</objectId>
+	<listOne_o item-list="true">	<item>	<listItem_s>Do I really need financial products?</listItem_s>
+	</item>	<item>	<listItem_s>Do I have too many or too few financial products?</listItem_s>
+	</item>	<item>	<listItem_s>Can I afford to start a family?</listItem_s>
+	</item></listOne_o>
+	<listTwo_o item-list="true">	<item>	<listItem_s>How much do I need to start saving now to be okay in the future?</listItem_s>
+	</item>	<item>	<listItem_s>I can’t seem to make sense of my budget. I don’t know where my money goes.</listItem_s>
+	</item>	<item>	<listItem_s>I’d really like to start my own business. How do I start saving towards this goal?</listItem_s>
+	</item>	<item>	<listItem_s>I’m in a lot of debt and struggling to get out of it.</listItem_s>
+	</item>	<item>	<listItem_s>I’d like to retire early.</listItem_s>
+	</item></listTwo_o>
+	<file-name>e0b717c4-b213-3472-918e-e9f6b0316f3f.xml</file-name>
+	<internal-name>Callout Home</internal-name>
+	<title_s>We’ll help you understand your finances and make better financial decisions.</title_s>
+	<label_s>Learn more</label_s>
+	<url_s>#</url_s>
+	<createdDate>2021-03-25T12:35:46.496Z</createdDate>
+	<createdDate_dt>2021-03-25T12:35:46.496Z</createdDate_dt>
+	<lastModifiedDate>2021-03-25T12:35:46.496Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T12:35:46.496Z</lastModifiedDate_dt>
+</component>
