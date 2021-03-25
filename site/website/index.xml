@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-03-25T11:48:20.670Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-25T11:48:20.670Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-03-25T12:38:04.661Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T12:38:04.661Z</lastModifiedDate_dt>
 	<navLabel>Home</navLabel>
 	<heroImage_s>/static-assets/images/1-Carouselbanner-1792x580.jpg</heroImage_s>
 	<mainRte_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in iaculis ante, vitae consequat velit. Etiam aliquet sed mi in dapibus. Curabitur id finibus purus. Nullam molestie fringilla urna, quis maximus nunc bibendum vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eget ligula vitae magna placerat scelerisque. Phasellus interdum lectus lacinia lacus varius, nec interdum turpis consectetur. Praesent porttitor arcu in urna tempus vulputate. Sed commodo eu enim quis dictum. Duis tempor laoreet leo, eget vehicula eros pretium eu. Fusce nec velit at mi commodo pellentesque.&lt;/p&gt;
@@ -25,4 +25,9 @@
 	<include>/site/components/carousel/39ec6a92-0fff-8513-1a6a-aaf30ad568b1.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></carousels_o>
+	<calloutList_o item-list="true">	<item datasource="calloutDS">	<key>/site/components/callout/e0b717c4-b213-3472-918e-e9f6b0316f3f.xml</key>
+	<value>Callout Home</value>
+	<include>/site/components/callout/e0b717c4-b213-3472-918e-e9f6b0316f3f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></calloutList_o>
 </page>
