@@ -382,5 +382,43 @@
 						</property>
 					</properties>
 				</datasource>
+				<datasource>
+					<type>shared-content</type>
+					<id>carouselDS</id>
+					<title>Carousel DS</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>enableCreateNew</name>
+							<value>true</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>enableBrowseExisting</name>
+							<value>true</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>enableSearchExisting</name>
+							<value>false</value>
+								<type>boolean</type>
+						</property>
+						<property>
+							<name>repoPath</name>
+							<value>/site/components/carousel</value>
+								<type>string</type>
+						</property>
+						<property>
+							<name>browsePath</name>
+							<value>/site/components/carousel</value>
+								<type>string</type>
+						</property>
+						<property>
+							<name>type</name>
+							<value>/component/component-carousel</value>
+								<type>string</type>
+						</property>
+					</properties>
+				</datasource>
 	</datasources>
 </form>
