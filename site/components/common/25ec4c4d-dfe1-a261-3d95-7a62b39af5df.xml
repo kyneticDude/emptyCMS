@@ -8,22 +8,10 @@
 	<objectId>25ec4c4d-dfe1-a261-3d95-7a62b39af5df</objectId>
 	<file-name>25ec4c4d-dfe1-a261-3d95-7a62b39af5df.xml</file-name>
 	<internal-name>Default Footer</internal-name>
-	<descriptionTitle_s>Holiday Crown</descriptionTitle_s>
-	<quickLinksTitle_s>Quick Links</quickLinksTitle_s>
-	<description_html>&lt;p&gt;Holiday Crown was these three and songs arose whose. Of in vicinity contempt together in possible branches. Assured company hastily looking in oh. Most have love my gone to his so. Discovered interested prosperous the our affronting insipidity day. Missed lovers way one vanity wishes nay but. Use shy seemed within twenty wished old few regret passed. Absolute one hastened mrs any sensible.&lt;/p&gt;</description_html>
 	<createdDate>2021-03-25T07:51:31.860Z</createdDate>
 	<createdDate_dt>2021-03-25T07:51:31.860Z</createdDate_dt>
-	<lastModifiedDate>2021-03-25T07:52:34.150Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-25T07:52:34.150Z</lastModifiedDate_dt>
-	<quickLinks_o item-list="true">	<item>	<label_s>Home</label_s>
-	<url_s>/</url_s>
-	</item>	<item>	<label_s>Rooms &amp; Tarrif</label_s>
-	<url_s>/rooms-showcase</url_s>
-	</item>	<item>	<label_s>Tour Packages</label_s>
-	<url_s>/packages-showcase</url_s>
-	</item>	<item>	<label_s>Gallery</label_s>
-	<url_s>/gallery</url_s>
-	</item></quickLinks_o>
+	<lastModifiedDate>2021-03-25T09:50:15.130Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T09:50:15.130Z</lastModifiedDate_dt>
 	<socialSitesLinks_o item-list="true">	<item>	<url_s>https://www.facebook.com/</url_s>
 	<socialSite_s>facebook</socialSite_s>
 	</item>	<item>	<socialSite_s>instagram</socialSite_s>
@@ -33,4 +21,8 @@
 	</item>	<item>	<socialSite_s>linkedin</socialSite_s>
 	<url_s>https://www.linkedin.com/</url_s>
 	</item></socialSitesLinks_o>
+	<footercolumnoneTitle_s>Partner with us</footercolumnoneTitle_s>
+	<footercolumntwoTitle_s>Newsroom</footercolumntwoTitle_s>
+	<footercolumnthreeTitle_s>Information</footercolumnthreeTitle_s>
+	<footercolumnfourTitle_s>Contact us</footercolumnfourTitle_s>
 </component>
