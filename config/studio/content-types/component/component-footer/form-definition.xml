@@ -342,7 +342,7 @@
 					<type>input</type>
 					<id>newsroom_s</id>
 					<iceId></iceId>
-					<title>Newsroom</title>
+					<title>Newsroom Title</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
