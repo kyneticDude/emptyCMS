@@ -51,7 +51,7 @@
                 </form>
              top -->
     
-            <header id="header">
+            <header id="header" class="global--header">
                 <@renderHeader/>
             </header>
     
