@@ -14,17 +14,24 @@
 	<slideBackground_s>/static-assets/images/2-Carouselbanner-1792x580.jpg</slideBackground_s>
 	<slideContent_html>&lt;p&gt;&lt;strong&gt;Make smart money decisions&lt;/strong&gt; with a Velocity Club financial expert to guide you.&lt;/p&gt;</slideContent_html>
 	</item>	<item>	<slideCategory_s>our solutions</slideCategory_s>
-	<slideTitle_s>Dreaming of buying your first home or starting a f</slideTitle_s>
+	<slideTitle_s>Dreaming of buying your first home or starting a family?</slideTitle_s>
 	<slideUrl_s>#</slideUrl_s>
 	<slideContent_html>&lt;p&gt;Whatever your money goal, we&amp;rsquo;ll help you get there.&lt;/p&gt;</slideContent_html>
 	<slideBackground_s>/static-assets/images/1-Carouselbanner-1792x580.jpg</slideBackground_s>
 	<slideId_s>ourSolutions</slideId_s>
-	<slideAltText_s>Young man sitting on the floor working on his lapt</slideAltText_s>
+	<slideAltText_s>Young man sitting on the floor working on his laptop which is resting on his bended legs.</slideAltText_s>
+	</item>	<item>	<slideCategory_s>financial check-up</slideCategory_s>
+	<slideTitle_s>How healthy are your finances?</slideTitle_s>
+	<slideUrl_s>#</slideUrl_s>
+	<slideContent_html>&lt;p&gt;Your gym workout routine keeps you fit and healthy. It&amp;rsquo;s time to get your money in shape too. Get a &lt;strong&gt;Financial Check-Up&lt;/strong&gt; that will get your money off the couch and into the gym!&lt;/p&gt;</slideContent_html>
+	<slideBackground_s>/static-assets/images/3-Carouselbanner-1792x580.jpg</slideBackground_s>
+	<slideId_s>finCheckup</slideId_s>
+	<slideAltText_s>Side view of a young woman wearing a red African head wrap with buildings in the background.</slideAltText_s>
 	</item></slide_o>
 	<file-name>39ec6a92-0fff-8513-1a6a-aaf30ad568b1.xml</file-name>
 	<internal-name>Carousel</internal-name>
 	<createdDate>2021-03-25T11:20:29.449Z</createdDate>
 	<createdDate_dt>2021-03-25T11:20:29.449Z</createdDate_dt>
-	<lastModifiedDate>2021-03-25T11:20:29.449Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-25T11:20:29.449Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-03-25T11:28:12.114Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T11:28:12.114Z</lastModifiedDate_dt>
 </component>
