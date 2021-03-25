@@ -56,6 +56,11 @@
                     </ul>
                 </div>
             </div>
+            <div class="copyright">
+                <div class="grid__cell">
+                    <p>${model.copyrightInfo}</p>
+                </div>
+            </div>
         </div>
     </div>
 </footer>
