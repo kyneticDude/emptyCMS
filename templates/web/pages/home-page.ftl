@@ -1,4 +1,4 @@
-<#import "/templates/we/layout/default-layout.ftl" as layout/>
+<#import "/templates/web/layout/default-layout.ftl" as layout/>
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <@layout.default>
     
@@ -9,7 +9,7 @@
                 <div class="col-md-8">
                     ${contentModel.mainRte_html!""}
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4" <@studio.iceAttr iceGroup="secondRte"/>>
                     ${contentModel.secondRte_html!""}
                 </div>
             </div>
