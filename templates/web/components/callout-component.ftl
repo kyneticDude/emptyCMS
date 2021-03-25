@@ -5,8 +5,8 @@
         <div class="col-6 grid__cell">
             <div class="info-box" id="list-col-3">
                 <div class="list-col--lead">
-                    <h2 class="title--md no-margin-top">${item.title_s!""}</h2>
-                    <a href="${item.url_s}" class="btn btn--primary btn--md understand_finances_home_button" role="button">${item.label_s}</a>
+                    <h2 class="title--md no-margin-top">${contentModel.title_s!""}</h2>
+                    <a href="${item.url_s!""}" class="btn btn--primary btn--md understand_finances_home_button" role="button">${item.label_s!""}</a>
                 </div>
             </div>
         </div>
