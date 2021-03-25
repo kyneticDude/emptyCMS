@@ -5,7 +5,7 @@
         <div class="grid__cell col-6">
             <div class="menu-control">
                 <div class="branding">
-                    <a href="${model.headerimageUrl_s}">
+                    <a href="${model.headerImageUrl_s}">
                         <img src="${model.headerImage_s!""}" alt="${model.title_t!""}">
                     </a>
                 </div>
