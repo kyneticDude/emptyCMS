@@ -58,7 +58,7 @@
             </div>
             <div class="copyright">
                 <div class="grid__cell">
-                    <p>${model.copyrightInfo}</p>
+                    <p>${model.copyrightInfo_html!""}</p>
                 </div>
             </div>
         </div>
