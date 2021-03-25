@@ -10,8 +10,8 @@
 	<internal-name>Default Footer</internal-name>
 	<createdDate>2021-03-25T07:51:31.860Z</createdDate>
 	<createdDate_dt>2021-03-25T07:51:31.860Z</createdDate_dt>
-	<lastModifiedDate>2021-03-25T09:50:15.130Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-25T09:50:15.130Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-03-25T09:51:33.060Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T09:51:33.060Z</lastModifiedDate_dt>
 	<socialSitesLinks_o item-list="true">	<item>	<url_s>https://www.facebook.com/</url_s>
 	<socialSite_s>facebook</socialSite_s>
 	</item>	<item>	<socialSite_s>instagram</socialSite_s>
@@ -25,4 +25,18 @@
 	<footercolumntwoTitle_s>Newsroom</footercolumntwoTitle_s>
 	<footercolumnthreeTitle_s>Information</footercolumnthreeTitle_s>
 	<footercolumnfourTitle_s>Contact us</footercolumnfourTitle_s>
+	<partnerLinks_o item-list="true">	<item>	<label_s>Home</label_s>
+	<url_s>/</url_s>
+	</item>	<item>	<label_s>Financial Check-Up</label_s>
+	<url_s>/financial-checkup</url_s>
+	</item>	<item>	<label_s>Money Plan</label_s>
+	<url_s>/money-plan</url_s>
+	</item></partnerLinks_o>
+	<newsLinks_o item-list="true">	<item>	<label_s>Coffee sessions</label_s>
+	<url_s>/coffee-sessions</url_s>
+	</item>	<item>	<label_s>Events and Webinars</label_s>
+	<url_s>/events-and-webinars</url_s>
+	</item>	<item>	<label_s>Expert opinions</label_s>
+	<url_s>/expert-opinions</url_s>
+	</item></newsLinks_o>
 </component>
