@@ -29,9 +29,13 @@
                 
                 <div class="col-3 grid__cell">
                     <h2 class="text--md footer__title">${model.footercolumnthreeTitle_s!""}</h2>
-                    <ul>
-                        <li><a href="#">Site map</a></li>
-                    </ul>
+                    <#if contentModel.info_o?? && contentModel.info_o.item??>
+                        <ul class="list-unstyled">
+                            <#list model.info_o.item as item>
+                                <li><a href="${item.url_s}">${item.label_s}</a></li>
+                            </#list>
+                        </ul>
+                    </#if>
                 </div>
                 
                 <div class="col-3 grid__cell">
