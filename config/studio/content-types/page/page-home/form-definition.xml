@@ -147,7 +147,7 @@
 				<field>
 					<type>image-picker</type>
 					<id>heroImage_s</id>
-					<iceId></iceId>
+					<iceId>hero-image</iceId>
 					<title>Hero Image</title>
 					<description></description>
 					<defaultValue></defaultValue>
