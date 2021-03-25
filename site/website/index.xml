@@ -1,49 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (C) 2007-2020 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License version 3 as published by
-  ~ the Free Software Foundation.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
-
 <page>
-	<content-type>/page/entry</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<content-type>/page/page-home</content-type>
+	<display-template>/templates/web/pages/home-page.ftl</display-template>
+	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<placeInNav>false</placeInNav>
+	<placeInNav>true</placeInNav>
 	<file-name>index.xml</file-name>
 	<internal-name>Home</internal-name>
-	<orderDefault_f>-1</orderDefault_f>
-	<body_html>&lt;h1&gt;Welcome to Your Crafter CMS Site.&lt;/h1&gt;
-&lt;p&gt;This site blueprint is the equivalent of a Hello World. It&amp;#39;s a blank slate on which you can build your own digital experience.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;To create new content types use the Site Config menu in the left Sidebar&lt;/li&gt;
-&lt;li&gt;To Update markup (including this text) edit this template under templates in the left Sidebar&lt;/li&gt;
-&lt;li&gt;To modify the text below this list click edit in the top toolbar.&lt;/li&gt;
-&lt;li&gt;Crafter documentation can be found&amp;nbsp;&lt;a href="http://docs.craftercms.org" target="_self"&gt;here.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Crafter CMS authoring and developer training is available. Please contact&amp;nbsp;&lt;a href="mailto:info@craftersoftware.com"&gt;info@craftersoftware.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div&gt;
-&lt;p&gt;The content above is managed in the template. &amp;nbsp;&lt;/p&gt;
-&lt;p&gt;This content is managed by the form. &amp;nbsp;Click edit to change OR in the upper right hand corner, click the pencil to turn on in-context editing.&lt;/p&gt;
-&lt;/div&gt;</body_html>
+	<orderDefault_f>2000</orderDefault_f>
 	<objectGroupId>8d7f</objectGroupId>
 	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2017-1-31T19:12:56.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-1-31T19:12:56.000Z</lastModifiedDate_dt>
-	<title_t>Hello!</title_t>
-	<disabled>false</disabled>
+	<lastModifiedDate>2021-03-25T08:27:44.711Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T08:27:44.711Z</lastModifiedDate_dt>
+	<navLabel>/</navLabel>
+	<heroImage_s>/static-assets/images/1-Carouselbanner-1792x580.jpg</heroImage_s>
+	<mainRte_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in iaculis ante, vitae consequat velit. Etiam aliquet sed mi in dapibus. Curabitur id finibus purus. Nullam molestie fringilla urna, quis maximus nunc bibendum vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eget ligula vitae magna placerat scelerisque. Phasellus interdum lectus lacinia lacus varius, nec interdum turpis consectetur. Praesent porttitor arcu in urna tempus vulputate. Sed commodo eu enim quis dictum. Duis tempor laoreet leo, eget vehicula eros pretium eu. Fusce nec velit at mi commodo pellentesque.&lt;/p&gt;
+&lt;p&gt;Sed lectus libero, auctor eu elit non, consequat rhoncus ante. Duis gravida tempor nisi eu semper. Suspendisse suscipit eget sapien quis blandit. Curabitur posuere eget turpis a ornare. Mauris feugiat est dui. Nulla ac maximus sem, et semper lectus. Vestibulum aliquam interdum mi, ut sagittis ligula facilisis sit amet. Proin dapibus scelerisque sapien, sed dignissim ex auctor vitae. Fusce eget malesuada metus, id tincidunt risus.&lt;/p&gt;</mainRte_html>
+	<secondRte_html>&lt;p&gt;Phasellus non gravida ligula, at pellentesque neque. Nulla ac varius nisi. Quisque id diam ullamcorper, mollis lectus at, consectetur ex. Suspendisse eu massa dictum ante facilisis interdum. Aliquam iaculis felis sit amet elit vestibulum, in venenatis nunc dapibus. Ut sem lorem, accumsan non nisl at, ultrices iaculis ante. Vestibulum ac tempor augue. Aliquam pulvinar sem odio, sed auctor sem finibus quis. Fusce non diam fermentum, viverra purus at, fringilla nunc. Maecenas elit diam, dignissim id nisi pulvinar, blandit gravida neque. Nunc ligula elit, sagittis at elit in, auctor lobortis nisi. Curabitur bibendum auctor eleifend. Nam imperdiet urna eu dui pretium cursus. Duis eget elit nec mi lobortis finibus.&lt;/p&gt;</secondRte_html>
 </page>
