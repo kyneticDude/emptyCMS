@@ -340,7 +340,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>newsroom_s</id>
+					<id>newsroomTitle_s</id>
 					<iceId></iceId>
 					<title>Newsroom Title</title>
 					<description></description>
