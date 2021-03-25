@@ -20,7 +20,7 @@
         <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
     
         <link rel="stylesheet" href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.css">
-        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+        <link rel="stylesheet" href="/static-assets/css/vendor/swiper-bundle.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 
         <link rel="stylesheet" href="/static-assets/css/style.css">
@@ -56,7 +56,7 @@
 
         <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
         <script>window.jQuery || document.write('<script src="/static-assets/js/vendor/jquery.min.js"><\/script>')</script>
-        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <script src="/static-assets/js/vendor/swiper-bundle.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
         <script src="/static-assets/js/sliders.js"></script>
         <script src="/static-assets/js/inline-forms.js"></script>
