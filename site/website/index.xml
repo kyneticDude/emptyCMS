@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-03-25T13:40:45.532Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-03-25T13:40:45.532Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-03-25T13:59:05.936Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T13:59:05.936Z</lastModifiedDate_dt>
 	<navLabel>Home</navLabel>
 	<carousels_o item-list="true">	<item datasource="carouselDS">	<key>/site/components/carousel/39ec6a92-0fff-8513-1a6a-aaf30ad568b1.xml</key>
 	<value>Carousel</value>
@@ -48,6 +48,27 @@
 	<createdDate_dt>2021-03-25T13:41:09.700Z</createdDate_dt>
 	<lastModifiedDate>2021-03-25T13:41:09.700Z</lastModifiedDate>
 	<lastModifiedDate_dt>2021-03-25T13:41:09.700Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>d0f6868f-03c7-379b-ddd5-0cc0c3679f99</key>
+	<value>Schedule a Session</value>
+<component id="d0f6868f-03c7-379b-ddd5-0cc0c3679f99">
+	<content-type>/component/component-emailsubscription</content-type>
+	<display-template>/templates/web/components/subscribe-right-img-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d0f6</objectGroupId>
+	<objectId>d0f6868f-03c7-379b-ddd5-0cc0c3679f99</objectId>
+	<image_s>/static-assets/images/handshake-Content_section.png</image_s>
+	<file-name>d0f6868f-03c7-379b-ddd5-0cc0c3679f99.xml</file-name>
+	<internal-name>Schedule a Session</internal-name>
+	<subTitle_s>You’re in good hands</subTitle_s>
+	<title_s>That’s the way financial planning should be - centred around you.</title_s>
+	<label_s>Schedule a session</label_s>
+	<imageAlt_s>A handshake between a financial adviser and his client.</imageAlt_s>
+	<createdDate>2021-03-25T13:59:26.211Z</createdDate>
+	<createdDate_dt>2021-03-25T13:59:26.211Z</createdDate_dt>
+	<lastModifiedDate>2021-03-25T13:59:26.211Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T13:59:26.211Z</lastModifiedDate_dt>
 </component>
 	</item></sections_o>
 </page>
