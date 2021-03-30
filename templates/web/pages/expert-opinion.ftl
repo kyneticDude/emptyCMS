@@ -8,7 +8,7 @@
             <div class="grid flex-grid grid-inner__2c grid-order__reverse">
                 <div class="col-6 grid__cell align-self__center">
                     <div class="content__pr">
-                        <h1 class="title--lg fw-900">${contentModel.masthead_title}</h1>
+                        <h1 class="title--lg fw-900">${contentModel.matheadTitle_s}</h1>
                         ${contentModel.masthead_content_html}
                     </div>
                 </div>
