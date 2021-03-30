@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>87696254</objectGroupId>
+	<objectId>87696254-37de-4e8f-97fc-94180f72fdb7</objectId>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name>/site/website</folder-name>
+	<createdDate>2017-10-9T16:52:48.000Z</createdDate>
+	<createdDate_dt>2017-10-9T16:52:48.000Z</createdDate_dt>
+	<lastModifiedDate>2021-03-25T08:04:22.761Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-25T08:04:22.761Z</lastModifiedDate_dt>
+	<defaultHeader_o item-list="true">	<item datasource="headerDatasource">	<key>/site/components/common/2f02d541-208a-9286-2ec6-529b1e6af308.xml</key>
+	<value>Default Header</value>
+	<include>/site/components/common/2f02d541-208a-9286-2ec6-529b1e6af308.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></defaultHeader_o>
+	<defaultFooter_o item-list="true">	<item datasource="footerDatasource">	<key>/site/components/common/25ec4c4d-dfe1-a261-3d95-7a62b39af5df.xml</key>
+	<value>Default Footer</value>
+	<include>/site/components/common/25ec4c4d-dfe1-a261-3d95-7a62b39af5df.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></defaultFooter_o>
+</component>
