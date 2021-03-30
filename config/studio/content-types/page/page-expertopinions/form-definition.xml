@@ -533,39 +533,6 @@
 					</constraints>
 				</field>
 				<field>
-					<type>dropdown</type>
-					<id>category_s</id>
-					<iceId>posts</iceId>
-					<title>Category</title>
-					<description></description>
-					<defaultValue></defaultValue>
-					<help></help>
-					<properties>
-						<property>
-							<name>datasource</name>
-							<value>categories</value>
-							<type>datasource:item</type>
-						</property>
-						<property>
-							<name>emptyvalue</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-						<property>
-							<name>readonly</name>
-							<value></value>
-							<type>boolean</type>
-						</property>
-					</properties>
-					<constraints>
-						<constraint>
-							<name>required</name>
-							<value><![CDATA[true]]></value>
-							<type>boolean</type>
-						</constraint>
-					</constraints>
-				</field>
-				<field>
 					<type>numeric-input</type>
 					<id>maxPosts_i</id>
 					<iceId>posts</iceId>
@@ -656,24 +623,6 @@
 						<property>
 							<name>contentType</name>
 							<value>/component/related-posts</value>
-								<type>string</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>site-component</type>
-					<id>categories</id>
-					<title>Categories</title>
-					<interface>item</interface>
-					<properties>
-						<property>
-							<name>dataType</name>
-							<value>[{&quot;value&quot;:&quot;value&quot;,&quot;label&quot;:&quot;&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_s&quot;,&quot;label&quot;:&quot;String&quot;,&quot;selected&quot;:true},{&quot;value&quot;:&quot;value_i&quot;,&quot;label&quot;:&quot;Integer&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_f&quot;,&quot;label&quot;:&quot;Float&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_dt&quot;,&quot;label&quot;:&quot;Date&quot;,&quot;selected&quot;:false},{&quot;value&quot;:&quot;value_html&quot;,&quot;label&quot;:&quot;Data Type&quot;,&quot;selected&quot;:false}]</value>
-								<type>dropdown</type>
-						</property>
-						<property>
-							<name>componentPath</name>
-							<value>/site/taxanomy/categories.xml</value>
 								<type>string</type>
 						</property>
 					</properties>
