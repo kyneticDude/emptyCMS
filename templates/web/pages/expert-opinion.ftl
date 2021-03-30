@@ -30,14 +30,14 @@
                 <#list posts as post>
                     <div class="col-4 grid__cell card bg--white" id="list-col-1b-tall">
                         <div class="card-image">
-                            <img src="${post.}" alt="Man in casual top talking on his cellphone">
+                            <img src="${postImage}" alt="">
                         </div>
                         <div class="card-header">
-                            <p class="text--sm headliner">16 March 2021 | 5 – 8 min. read</p>
-                            <h2 class="text--lg article-heading-margin">How to start investing</h2>
+                            <p class="text--sm headliner">${post.date_time} | ${post.postDuration} min. read</p>
+                            <h2 class="text--lg article-heading-margin">${post.title}</h2>
                         </div>
                         <div class="card-footer">
-                            <a href="expert-opinions/how-to-start-investing.html" class="btn btn--primary-text expert_opinions_post_one">Read more</a>
+                            <a href="${post.url}" class="btn btn--primary-text expert_opinions_post_one">Read more</a>
                         </div>
                     </div>
                 </#list>
