@@ -28,7 +28,7 @@
 	<sections>		<section>
 			<title>Page Properties</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>file-name</type>
