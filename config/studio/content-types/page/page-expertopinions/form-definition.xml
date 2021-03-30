@@ -257,7 +257,7 @@
 			<fields>
 				<field>
 					<type>input</type>
-					<id>mathead_title</id>
+					<id>matheadTitle_s</id>
 					<iceId>masthead</iceId>
 					<title>Mathead Title</title>
 					<description></description>
