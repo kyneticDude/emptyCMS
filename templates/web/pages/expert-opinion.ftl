@@ -27,17 +27,17 @@
 
         <div class="wide--layout">
             <div class="grid flex-grid grid-inner__3c grid-gap__all grid-cards__equal">
-                <#list post as post>
+                <#list posts as post>
                     <div class="col-4 grid__cell card bg--white" id="list-col-1b-tall">
                         <div class="card-image">
-                            <img src="${postImage}" alt="">
+                            <img src="${post.image_s}" alt="">
                         </div>
                         <div class="card-header">
-                            <p class="text--sm headliner">${post.date_time} | ${post.postDuration} min. read</p>
-                            <h2 class="text--lg article-heading-margin">${post.title}</h2>
+                            <p class="text--sm headliner">${post.date_dt} | ${post.postDuration_s} min. read</p>
+                            <h2 class="text--lg article-heading-margin">${post.title_s}</h2>
                         </div>
                         <div class="card-footer">
-                            <a href="${post.url}" class="btn btn--primary-text expert_opinions_post_one">Read more</a>
+                            <a href="${post.file-name}" class="btn btn--primary-text expert_opinions_post_one">Read more</a>
                         </div>
                     </div>
                 </#list>
