@@ -235,7 +235,7 @@
 				<field>
 					<type>date-time</type>
 					<id>date_dt</id>
-					<iceId></iceId>
+					<iceId>posts</iceId>
 					<title>Date</title>
 					<description></description>
 					<defaultValue></defaultValue>
@@ -303,7 +303,7 @@
 				<field>
 					<type>input</type>
 					<id>readDuration_s</id>
-					<iceId></iceId>
+					<iceId>posts</iceId>
 					<title>Read Duration</title>
 					<description></description>
 					<defaultValue></defaultValue>
@@ -351,7 +351,7 @@
 				<field>
 					<type>image-picker</type>
 					<id>image_s</id>
-					<iceId></iceId>
+					<iceId>posts</iceId>
 					<title>Image</title>
 					<description></description>
 					<defaultValue></defaultValue>
@@ -399,7 +399,7 @@
 				<field>
 					<type>repeat</type>
 					<id>sections_o</id>
-					<iceId>post</iceId>
+					<iceId>posts</iceId>
 					<title>Sections</title>
 					<description></description>
 					<minOccurs>1</minOccurs>
@@ -420,7 +420,7 @@
 				<field>
 					<type>rte-tinymce5</type>
 					<id>section_html</id>
-					<iceId>post</iceId>
+					<iceId>posts</iceId>
 					<title>Section</title>
 					<description></description>
 					<defaultValue></defaultValue>
