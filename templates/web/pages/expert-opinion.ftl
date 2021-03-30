@@ -27,7 +27,7 @@
 
         <div class="wide--layout">
             <div class="grid flex-grid grid-inner__3c grid-gap__all grid-cards__equal">
-                <#list posts as post>
+                <#list post as post>
                     <div class="col-4 grid__cell card bg--white" id="list-col-1b-tall">
                         <div class="card-image">
                             <img src="${postImage}" alt="">
