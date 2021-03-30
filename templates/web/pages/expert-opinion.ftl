@@ -26,7 +26,7 @@
     <section class="container section">
 
         <div class="wide--layout">
-            <div class="grid flex-grid grid-inner__3c grid-gap__all grid-cards__equal">
+            <div class="grid flex-grid grid-inner__3c grid-gap__all grid-cards__equal" <@studio.iceAttr iceGroup="posts"/>>
                 <#list posts as post>
                     <div class="col-4 grid__cell card bg--white" id="list-col-1b-tall">
                         <div class="card-image">
