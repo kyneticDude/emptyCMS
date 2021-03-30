@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-expertopinions</content-type>
+	<display-template>/templates/web/pages/expert-opinion.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d9b8</objectGroupId>
+	<objectId>d9b8dcdf-c68c-5df8-db0c-167aa5645b85</objectId>
+	<disabled>false</disabled>
+	<internal-name>Expert Opinions</internal-name>
+	<title_s>Expert Opinions</title_s>
+	<mathead_title>Expert Opinions</mathead_title>
+	<imageAlt_s>Business woman smartly dressed in a white suit holding her laptop on her lap.</imageAlt_s>
+	<postsTitle_s>Expert Opinions</postsTitle_s>
+	<file-name>index.xml</file-name>
+	<folder-name>expert-opinions</folder-name>
+	<placeinNav remote="true">true</placeinNav>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>4000</orderDefault_f>
+	<relatedPosts_o item-list="true"/>
+	<masthead_image_s>/static-assets/images/newsroom-expertopinion_hero.png</masthead_image_s>
+	<maxPosts_i>10</maxPosts_i>
+	<masthead_content_html>&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;If it affects your finances - we&amp;rsquo;ve got you covered.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;And now&amp;rsquo;s the time for you to, not only embrace your future, but to plan for it. Our blogs cover a range of topics on creating healthy spending habits, managing your budget and debt, insurance to cover your assets, life and income, setting up an emergency fund; and so much more.&lt;br /&gt;Sit back, relax and enjoy the blogs!&lt;/p&gt;</masthead_content_html>
+	<createdDate>2021-03-30T15:51:16.634Z</createdDate>
+	<createdDate_dt>2021-03-30T15:51:16.634Z</createdDate_dt>
+	<lastModifiedDate>2021-03-30T15:51:16.634Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-30T15:51:16.634Z</lastModifiedDate_dt>
+</page>
