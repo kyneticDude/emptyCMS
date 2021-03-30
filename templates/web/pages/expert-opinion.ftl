@@ -8,13 +8,13 @@
             <div class="grid flex-grid grid-inner__2c grid-order__reverse">
                 <div class="col-6 grid__cell align-self__center">
                     <div class="content__pr">
-                        <h1 class="title--lg fw-900">${contentModel.mastheadTitle_s}</h1>
-                        ${contentModel.masthead_content_html}
+                        <h1 class="title--lg fw-900">${contentModel.mastheadTitle_s!""}</h1>
+                        ${contentModel.masthead_content_html!""}
                     </div>
                 </div>
                 <div class="col-6 grid__cell grid__cell-bitmap grid-mb-mobile">
                     <div class="aspect-ratio">
-                        <img src="${contentModel.masthead_image_s}" alt="${contentModel.imageAlt_s}">
+                        <img src="${contentModel.masthead_image_s!""}" alt="${contentModel.imageAlt_s!""}">
                     </div>
                 </div>
             </div>
